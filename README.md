@@ -35,3 +35,11 @@ pip install -r requirements.txt
 
 3.Run the app
 streamlit run app.py
+
+Flow diagram:
+<img width="713" height="487" alt="image" src="https://github.com/user-attachments/assets/17323231-059d-4ce8-a5fe-d59b66ffa47c" />
+
+Streamlit Interface:
+<img width="682" height="725" alt="image" src="https://github.com/user-attachments/assets/b97a42b7-939f-4b43-98bf-8445b85b9fa0" />
+<img width="731" height="521" alt="image" src="https://github.com/user-attachments/assets/5e30167c-58ec-4b92-873e-a97226d65233" />
+
