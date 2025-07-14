@@ -1,0 +1,73 @@
+Name:T.Nishanth Arun
+Reg. No.:917722H035
+Degree	:B.Tech. (CSBS)
+Email:nishantharun@student.tce.du
+Phone number: 9840428633
+
+
+
+
+
+Professional Objective
+●	Seeking a role to merge technical expertise with business acumen for innovative software solutions, driving entrepreneurial growth.
+●	Goal-oriented CSBS professional aiming to bridge the gap between technology and business strategy for sustainable, innovative growth.
+●	Dynamic CSBS consultant dedicated to providing strategic guidance and implementing technology solutions that foster innovation and
+entrepreneurial success.
+●	Motivated professional committed to continuous learning and staying abreast of industry trends to drive innovation, entrepreneurship, and business excellence.Academic Record
+ 
+
+
+
+
+Areas of Interest
+●	Mern stack developer
+●	Ui/ux designer
+
+Computer Proficiency Software skill:
+●	Web development	: HTML,CSS,JS,ReactJS,NodeJs ,Mangodb
+●	Programming Languages	: C,C++,JAVA,PYTHON,c#
+
+●	Statistical analysis tools
+
+●	Database management systems(DBMS)
+
+
+Certification Course(s)
+●	Completion Of Python.3.4.5 With 67% By Spoken Tutorial
+●	Complete C# Unity Game Developer 2D (Udemy) - Learned the fundamentals of C# and Unity, focusing on 2D game
+●	Completion Of Java For Problem Solving By Code Chef
+ 
+●	The Complete 2023 Web Development Bootcamp (Udemy) - Comprehensive course covering HTML, CSS, JavaScript, Node.js, React.js, MongoDB, and more.
+●	MERN Stack Front To Back: Full Stack React, Redux & Node.js (Udemy) -Focused on building full-stack applications with React, Redux, Node.js, Express, and MongoDB.
+Achievements
+●	Won third price in Data crush conducted by CSBA association of Thiagarajar college of engineering during academic year 2022 to 2023
+●	Won Second prize in Oratory competition in Fintech Expo Idea PItch 2022-23
+●	Participated in Fintech Expo, Poster presentation about Reverse QR code based commuting system conducted by CSBA association of Thiagarajar college of engineering during academic year 2023 to 2024.
+●	Selected for the Second Round in Design Impact Movement 2023- 2024 conducted by Titan company limited.
+●	Participated in the Tech workshop ” Mechanica 2024” conducted Techobytes in IIT Madras
+●	role as the community development volunteer for the Makerghat since past six months
+●	Worked as a intern for Hire bus private Limited a E-commerce platform for the Commuting System for 1 month and helped them building their website and mobile application
+Extra-Curricular Activities
+●	Had been a member of E-cell
+●	Had been a member of Tce football team
+●	Had been a member of ECO Club , participated in various Eco campaign and Volunteering
+●	Volunteered in E-cell for organizing stalls during NAAC accreditation visit.
+
+●	Attended UI/UX design workshop in NIT Tiruchirappalli.
+
+Project 1
+Title: Price Identification Assistant for Blind People
+Language: Python
+Field: Assistive Technology
+Description: Developing an application to assist visually impaired users in identifying the price of objects easily. If a barcode is found on an object, the application retrieves and
+announces the price. If the barcode is not found, the application uses object detection to identify the object and provide relevant attributes to the user. This aims to enhance the independence and shopping experience of blind people through advanced AI technologies.
+
+
+Project 2
+Title: Local Bus Ticketing System with NFC
+Platform: Android Studio
+Field: Transportation
+Description: Developing a local bus ticketing system that leverages NFC technology for
+seamless and contactless transactions. This application enables users to purchase and validate bus tickets through their smartphones, reducing the need for physical tickets and cash transactions. The system enhances convenience and efficiency in public transportation, providing a modern solution for everyday commuters.
+ 
+
