@@ -33,5 +33,5 @@ cd ResumeParserNLPML
 2.Install the requirements 
 pip install -r requirements.txt
 
-3.4. Run the app
+3.Run the app
 streamlit run app.py
