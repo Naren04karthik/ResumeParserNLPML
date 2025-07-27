@@ -27,12 +27,7 @@ A Streamlit-based NLP + Machine Learning project that automatically extracts key
 
 ---
 
-## 🖥️ Run Locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Naren04karthik/ResumeParserNLPML.git
-   cd ResumeParserNLPML
 
 
 
